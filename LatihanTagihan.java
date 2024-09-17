@@ -13,5 +13,6 @@ public class LatihanTagihan {
     System.out.println("Total Tagihan Listrik: Rp " + tagihanListrik);
     System.out.println("Penggunaan Listrik Melebihi Batas: " + melebihiBatas);
 
+    //bismillah 
     }
 }

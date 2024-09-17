@@ -13,7 +13,7 @@ public class TagihanListrik18 {
         int totalTagihan = penggunaanKwh * TARIF_PER_KWH;
 
         System.out.println("Total tagihan listrik: Rp " + totalTagihan);
-        System.out.println("Penggunaan listrik melebihi batas: " + melebihiBatas);
-
+        System.out.println("Penggunaan listrik melebihi batas: " + melebihiBatas); 
+    // test
     }
 }
